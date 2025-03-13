@@ -12,11 +12,11 @@ This project focuses on **Off-Page SEO strategies** to enhance the authority, vi
 ✅ **Local SEO & Citation Building**  
 ✅ **Monitoring & Reporting SEO Performance**
 Tools Required  
-To implement this Off-Page SEO strategy, you may need:  
+## To implement this Off-Page SEO strategy, you may need:  
 - **Ahrefs / SEMrush / Moz** (for backlink analysis)  
 - **Google Analytics & Search Console** (for performance tracking)  
 - **Ubersuggest / Neil Patel SEO Tools**
-- ow to Track Progress  
+## How to Track Progress  
 Monitor and measure SEO improvements using:  
 - **Backlink Growth** (via Ahrefs / Moz)  
 - **Domain Authority (DA/DR) Changes**  
